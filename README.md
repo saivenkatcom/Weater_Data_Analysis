@@ -7,7 +7,6 @@ This project is part of a Udemy course on data analysis. It involves analyzing w
 - [Introduction](#introduction)
 - [Data](#data)
 - [Methodology](#methodology)
-- [Results](#results)
 - [Conclusion](#conclusion)
 - [Installation](#installation)
 - [License](#license)
@@ -23,12 +22,6 @@ The dataset used in this project is sourced from [source name]. It includes data
 2. Data Exploration: Visualizing data to understand distributions and relationships.
 3. Data Analysis: Applying statistical methods to identify trends and patterns.
 
-
-## Results
-The analysis revealed several key insights:
-- [Insight 1]
-- [Insight 2]
-- [Insight 3]
 
 ## Conclusion
 The project demonstrates the importance of data analysis in understanding weather patterns. The insights gained can be used for various applications, such as agriculture, disaster management, and urban planning.
